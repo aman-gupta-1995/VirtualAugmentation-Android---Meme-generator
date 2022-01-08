@@ -8,7 +8,7 @@
 - Add caption option (in creator) to apply text appearance changes to all captions
 - Works completly offline, no internet permission requested
 - Remove tabbar from main view to see all images immediately, less clutter
-- Add editor menu options to view original image
+- Add editor menu options to view original image 
 - Add simple rotation gesture detection to imageviewer
 - Add links to meme templates and funny image sites to More->Help
 

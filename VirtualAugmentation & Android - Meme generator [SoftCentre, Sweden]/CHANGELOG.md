@@ -5,7 +5,7 @@
 ### v1.6 [Blog post](https://gsantner.net/blog/2019/08/15/memetastic-v1.6-offline-meme-templates-funny-sites.html?source=inapp_changelog&project=memetastic)  
 - Simplify overall app usage
 - Change primary color brown-black to improve readability
-- Add caption option (in creator) to apply text appearance changes to all captions
+- Add caption option (in creator) to apply text appearance changes to all captions 
 - Works completly offline, no internet permission requested
 - Remove tabbar from main view to see all images immediately, less clutter
 - Add editor menu options to view original image 

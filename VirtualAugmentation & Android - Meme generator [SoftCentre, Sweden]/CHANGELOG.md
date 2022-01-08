@@ -57,7 +57,7 @@
 - Allows updating assets
 - Remove builtin assets
 - Allow using without storage permission (share & edit only)
-- Migration for old data
+- Migration for old data 
 - Allow templates to be shown in normal tabs
 - Replace categories with tags. A meme can now be e.g. animals and cartoon
 

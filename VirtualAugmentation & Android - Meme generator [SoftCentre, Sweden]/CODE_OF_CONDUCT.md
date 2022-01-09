@@ -29,7 +29,7 @@ advances
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+  professional setting 
 
 ## Our Responsibilities
 

@@ -25,4 +25,3 @@ Es werden zahlreiche Einstellungsmöglichkeiten angeboten:
  ✋ <a href="https://github.com/gsantner/memetastic#contributions">Mehr Informationen zu Unterstützungen</a>
  
 
-

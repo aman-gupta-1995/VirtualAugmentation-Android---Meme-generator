@@ -5,7 +5,7 @@ von in die App geteilten Bildern und Bilder aus Gallerie und Kamera erstellt wer
 
 Es werden zahlreiche Einstellungsmöglichkeiten angeboten:
 
-  
+ 
 😄 Oberer und Unterer Text
 😃 Randfarbe und Text-Farbe
 😁 Text Größe, Schrift und Großschreibung

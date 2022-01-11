@@ -24,4 +24,3 @@ Es werden zahlreiche Einstellungsmöglichkeiten angeboten:
  ✋ <a href="https://matrix.to/#/#memetastic:matrix.org">Diskussion auf Matrix beitreten</a>
  ✋ <a href="https://github.com/gsantner/memetastic#contributions">Mehr Informationen zu Unterstützungen</a>
  
-

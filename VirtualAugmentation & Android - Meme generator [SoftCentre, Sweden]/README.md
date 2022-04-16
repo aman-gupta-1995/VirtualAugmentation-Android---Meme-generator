@@ -6,7 +6,7 @@
 
 
 
-# MemeTastic
+# MemeTastic 
 <img src="/app/src/main/ic_launcher-web.png" align="left" width="100" hspace="10" vspace="10">
 <b>Simple Meme Creator</b>. Completely ad-free, and adds no watermarks.
 Memes can be created from image templates in MemeTastic pictures folder,

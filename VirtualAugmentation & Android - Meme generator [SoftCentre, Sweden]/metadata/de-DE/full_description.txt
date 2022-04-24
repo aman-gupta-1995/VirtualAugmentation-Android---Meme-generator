@@ -23,3 +23,4 @@ Es werden zahlreiche Einstellungsmöglichkeiten angeboten
  ✋ <a href="https://lonamiwebs.github.io/stringlate/translate?git=https%3A%2F%2Fgithub.com%2Fgsantner%2Fmemetastic.git&mail=gro.xobliam@@rentnasg&name=MemeTastic&web=https%3A%2F%2Fgithub.com%2Fgsantner%2FMemeTastic">Übersetzen mit Stringlate</a>
  ✋ <a href="https://matrix.to/#/#memetastic:matrix.org">Diskussion auf Matrix beitreten</a>
  ✋ <a href="https://github.com/gsantner/memetastic#contributions">Mehr Informationen zu Unterstützungen</a>
+ 

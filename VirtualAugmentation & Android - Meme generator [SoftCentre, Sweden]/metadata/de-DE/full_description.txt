@@ -4,7 +4,7 @@ Memes können aus Vorlagen aus dem MemeTastic Archiv,
 von in die App geteilten Bildern und Bilder aus Gallerie und Kamera erstellt werden.
 
 Es werden zahlreiche Einstellungsmöglichkeiten angeboten 
-
+ 
    
 😄 Oberer und Unterer Text   
 😃 Randfarbe und Text-Farbe   

@@ -8,7 +8,7 @@ Es werden zahlreiche Einstellungsmöglichkeiten angeboten
    
 😄 Oberer und Unterer Text   
 😃 Randfarbe und Text-Farbe   
-😁 Text Größe, Schrift und Großschreibung  
+😁 Text Größe, Schrift und Großschreibung   
 😃 Padding Größe und Farbe
 😜 Bild drehen
 

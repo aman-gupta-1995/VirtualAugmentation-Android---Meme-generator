@@ -28,7 +28,7 @@ android {
     compileSdkVersion rootProject.ext.version_compileSdk
 
     defaultConfig {
-        minSdkVersion rootProject.ext.version_minSdk
+        minSdkVersion rootProject.ext.version_minSdk 
         targetSdkVersion rootProject.ext.version_compileSdk
         buildConfigField "boolean", "IS_TEST_BUILD", "false"
         buildConfigField "boolean", "IS_GPLAY_BUILD", "false"

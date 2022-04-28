@@ -5,7 +5,7 @@ general:
     branches:
         ignore:
             - gh-pages
-            - l10n_master
+            - l10n_master 
             - crowdin
 
 ###################

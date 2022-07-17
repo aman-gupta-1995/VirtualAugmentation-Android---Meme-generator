@@ -2,7 +2,7 @@
  *
  *   Maintained by Gregor Santner, 2016-
  *   https://gsantner.net/
- *
+ * 
  *   License of this file: GNU GPLv3 (Commercial upon request)
  *
  * This program is free software: you can redistribute it and/or modify  

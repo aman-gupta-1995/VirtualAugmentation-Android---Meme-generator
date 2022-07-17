@@ -26,7 +26,7 @@ public class AndroidSupportMeWrapper extends ActivityUtils {
         super(activity);
         _localSettingsImpl = new LocalSettingsImpl(_context.getApplicationContext());
     }
-
+ 
     public void openPayPalDonationPage() {
         String id = getPackageIdManifest();
         String url = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TVV24QBGMN23C&source=self.gsantner.net%2F" + id;

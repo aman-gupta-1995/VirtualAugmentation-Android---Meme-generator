@@ -7,7 +7,7 @@
  *     https://www.apache.org/licenses/LICENSE-2.0 
  *     https://github.com/gsantner/opoc/#licensing 
  *
-#########################################################*/
+#########################################################*/ 
 package net.gsantner.opoc.util;
 
 import android.app.Activity;

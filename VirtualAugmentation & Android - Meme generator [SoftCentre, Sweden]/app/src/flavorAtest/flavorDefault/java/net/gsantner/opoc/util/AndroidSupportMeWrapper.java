@@ -2,7 +2,7 @@
  *
  *   Maintained by Gregor Santner, 2018-
  *   https://gsantner.net/
- * 
+ *  
  *   License of this file: Apache 2.0 (Commercial upon request) 
  *     https://www.apache.org/licenses/LICENSE-2.0     
  *     https://github.com/gsantner/opoc/#licensing   
